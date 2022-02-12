@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1643584193 source:/home/totorino/Bureau/CIC Semestre3/INF211/algo/pile/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.c"
+
+1643584653 /home/totorino/Bureau/CIC Semestre3/INF211/algo/pile/pile.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1643583949 /home/totorino/Bureau/CIC Semestre3/INF211/algo/pile/pile.h
+

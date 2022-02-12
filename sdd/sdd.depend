@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643113467 source:/home/totorino/Bureau/CIC Semestre3/INF211/algo/sdd/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

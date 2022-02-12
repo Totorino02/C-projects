@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643568289 source:/home/totorino/Bureau/CIC Semestre3/INF211/algo/exoTd/main.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.c"
+
+1643568496 /home/totorino/Bureau/CIC Semestre3/INF211/algo/exoTd/liste.c
+	<stdio.h>
+	"liste.h"
+
+1643568468 /home/totorino/Bureau/CIC Semestre3/INF211/algo/exoTd/liste.h
+

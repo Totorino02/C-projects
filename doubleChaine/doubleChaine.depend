@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1644699587 source:/home/totorino/Bureau/CIC Semestre3/INF211/algo/doubleChaine/main.c
+	<stdio.h>
+	<stdlib.h>
+	"dliste.c"
+
+1644700777 /home/totorino/Bureau/CIC Semestre3/INF211/algo/doubleChaine/dliste.h
+
+1644700777 /home/totorino/Bureau/CIC Semestre3/INF211/algo/doubleChaine/dliste.c
+	<stdio.h>
+	<stdlib.h>
+	"dliste.h"
+
