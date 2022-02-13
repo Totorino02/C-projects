@@ -1,4 +1,4 @@
-## Liste Doublement Chainée (LDC)
+## double Linked list (D2L)
 ![image de banniere](../images/ldc.png)
 
 ### Table of contents :
