@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644966821 source:/home/totorino/Bureau/CIC Semestre3/INF211/algo/parentheseChecker/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
