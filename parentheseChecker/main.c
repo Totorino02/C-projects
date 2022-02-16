@@ -37,6 +37,8 @@ int main()
     }else{
         printf("\nInvalid Expression");
     }
+
+    printf("%d",(30%5*1));
     return 0;
 }
 
