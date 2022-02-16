@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1644978442 source:/home/totorino/Bureau/CIC Semestre3/INF211/algo/infToPost/main.c
+	<stdio.h>
+	<stdlib.h>
+	"infToPost.c"
+
+1644980252 /home/totorino/Bureau/CIC Semestre3/INF211/algo/infToPost/infToPost.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
