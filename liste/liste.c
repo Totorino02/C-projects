@@ -171,6 +171,11 @@ void search(List li, int x){
 /// verify if l1 isEqual to l2
 Bool egals(List l1, List l2){
     Bool isMatched = true;
+    
+    // check if the 2 lists have the same size
+    if(listLength(l1) != listLength(l2)){
+        return false;
+    }
 
     while(l1 != NULL && l2 != NULL){
         if(l1->data != l2->data){
